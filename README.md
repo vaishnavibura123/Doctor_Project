@@ -1,7 +1,9 @@
 # Doctor_Project
 This project is a backend API system for a doctor-patient management system. It is built using the Spring Boot framework and Hibernate for database operations
 ## Requirements
-* 
+* IntelliJIDEA
+* ServerPort: 8080 (use: localhost:8080)
+* Java version: 17
 ## Setup
 * Clone the repository:
 * git clone https://github.com/vaishnavibura123/Doctor_Project.git
